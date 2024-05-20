@@ -12,6 +12,8 @@ weight: 1
 
 The tremendous technique developed by Google DeepMind Researchers is called Miture-of-Depths, or MoD for short. In this blog post, we take a look at building blocks of MoD and how they works.
 
+Let's dive in!
+
 ## Table of Contents
 
 - [Overview to Mixture-of-Depths (MoD)](#Overview-to-Mixture-of-Depths-MoD)
