@@ -17,13 +17,11 @@ In this post, We will explain the development of conditional computation in Tran
 Let's dive in!
 
 
+## Conditional Computation for transformers
+- Early exiting
+- CoLT5
+  
 ## Overview to Mixture-of-Depths (MoD)
-
-<p align="center">
-    <img src=../images/Mixture-of-Depths_Transformer.png> 
-</p>
-
-## Conditional computation methods for transformers
 
 ## Capacity based routing schemes
 
