@@ -12,7 +12,7 @@ weight: 1
 # Introduction
 “Choice and concentration” is an effective strategies for achieving success in problems. Sometimes, it is not necessary to consume same amount of effort and time into all problems. Expend energy on trivial issues may fail to concentrate on what truly matters. Similarly, in language models, there is a technique that does not focus equally on all tokens but allocates less budget to non-essential tokens. This technique is called conditional computation.
 
-In this post, We will explain the development of conditional computation in Transformers, focusing on a technology announced this year called [<U>**Mixture-of-Texture.**</U>](https://arxiv.org/abs/2404.02258)
+In this post, We will explain the development of conditional computation for Transformers, focusing on a technology announced this year called [<U>**Mixture-of-Texture.**</U>](https://arxiv.org/abs/2404.02258)
 
 Let's dive in!
 
