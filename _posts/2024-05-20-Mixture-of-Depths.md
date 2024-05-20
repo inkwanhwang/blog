@@ -9,9 +9,10 @@ weight: 1
 ---
 *Posted by: Inkwan Hwang, Minjae Park*
 
-“Choice and concentration” is an effective strategies for achieving success in tasks. It is not necessary to consume same amount of effort and time into all problems. If we expend our energy on trivial issues, we may fail to concentrate on what truly matters. Similary, a technique was introduced that allows languge models to allocate less budget to non-essential tokens instead of focusing equally on all tokens.
+# Introduction
+“Choice and concentration” is an effective strategies for achieving success in problems. It is not necessary to consume same amount of effort and time into all problems. If we expend our energy on trivial issues, we may fail to concentrate on what truly matters. Similarly, in language models, there is a technique that does not focus equally on all tokens but allocates less budget to non-essential tokens. This technique is called **conditional computation**.
 
-The tremendous technique developed by Google DeepMind Researchers is called Miture-of-Depths, or MoD for short. In this blog post, we take a look at building blocks of MoD and how they works.
+In this post, We will explain the development of conditional computation of Transformers, focusing on a technology announced this year called **Mixture-of-Texture**.
 
 Let's dive in!
 
