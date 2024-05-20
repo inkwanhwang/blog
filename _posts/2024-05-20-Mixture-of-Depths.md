@@ -1,5 +1,5 @@
 ---
-title: "Mixture of depths Explained"
+title: "Accelerating Transformers via Conditional Computation"
 author:
  - "A"
  - "B"
