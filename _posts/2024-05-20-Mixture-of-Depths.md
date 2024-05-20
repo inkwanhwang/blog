@@ -25,7 +25,7 @@ The tremendous technique developed by Google DeepMind Researchers is called Mitu
 ## Overview to Mixture-of-Depths (MoD)
 
 <p align="center">
-    <img src=../../images/Mixture-of-Depths.png> 
+    <img src=../images/Mixture-of-Depths.png> 
 </p>
 
 ## Conditional computation methods for transformers
