@@ -7,6 +7,7 @@ type: docs
 bookToc: True
 weight: 1
 ---
+*Posted by: Inkwan Hwang, Minjae Park*
 
 “Choice and concentration” is an effective strategies for achieving success in tasks. It is not necessary to consume same amount of effort and time into all problems. If we expend our energy on trivial issues, we may fail to concentrate on what truly matters. Similary, a technique was introduced that allows languge models to allocate less budget to non-essential tokens instead of focusing equally on all tokens.
 
