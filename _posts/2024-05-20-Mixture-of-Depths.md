@@ -1,8 +1,8 @@
 ---
 title: "Accelerating Transformers via Conditional Computation"
 author:
- - "A"
- - "B"
+ - "Inkwan Hwang"
+ - "Minjae Park"
 type: docs
 bookToc: True
 weight: 1
