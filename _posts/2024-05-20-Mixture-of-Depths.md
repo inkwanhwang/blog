@@ -41,12 +41,20 @@ Difference between MoD is, MoD can choose whether skip middle layer or not, but 
 ## Capacity based routing schemes
 - Token-choice routing
 - Expert-choice routing
-- Export-choice MoD
+- Expert-choice MoD
 
 ## Implementation detail
 
+논문 요약
+
 ## Open source MoD
+
+https://github.com/astramind-ai/Mixture-of-depths
 
 ## Conclusion and discussion
 
+논문 요약 + 내 생각
+
 ## Some resources
+
+참고문헌 정리
