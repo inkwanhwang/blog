@@ -39,6 +39,9 @@ Difference between MoD is, MoD can choose whether skip middle layer or not, but 
 </p>
 
 ## Capacity based routing schemes
+- Token-choice routing
+- Expert-choice routing
+- Export-choice MoD
 
 ## Implementation detail
 
