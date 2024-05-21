@@ -29,6 +29,7 @@ Difference between MoD is, MoD can choose whether skip middle layer or not, but 
 - CoLT5
 
 - Mixture of Experts (MoE)
+
 MoE is an model which consists of parallel expert models which is fitted to certain domains. Like MoD, token-level routing decisions are made across the network depth. Difference between MoD is, MoD chooses path to transformer or to residual connection, MoE chooses path to transformer(Expert) or to transformer(Expert) or both.
   
 ## Overview to Mixture-of-Depths (MoD)
