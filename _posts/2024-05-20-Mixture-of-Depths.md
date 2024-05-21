@@ -34,6 +34,10 @@ Difference between MoD is, MoD can choose whether skip middle layer or not, but 
   
 ## Overview to Mixture-of-Depths (MoD)
 
+<p align="center">
+    <img src=../images/Mixture-of-Depths.png> 
+</p>
+
 ## Capacity based routing schemes
 
 ## Implementation detail
