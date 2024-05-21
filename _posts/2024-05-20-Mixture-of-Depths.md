@@ -2,8 +2,6 @@
 title: "Accelerating Transformers via Conditional Computation: As Aspect of Mixture of Depths"
 
 author:
- - "Inkwan Hwang"
- - "Minjae Park"
 
 type: docs
 bookToc: True
